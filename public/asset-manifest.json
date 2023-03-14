@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e20345d0.css",
+    "main.js": "/static/js/main.68f56e44.js",
+    "static/media/PRATIKSHA_KURKURE.pdf": "/static/media/PRATIKSHA_KURKURE.0d0e804a968182270931.pdf",
+    "index.html": "/index.html",
+    "main.e20345d0.css.map": "/static/css/main.e20345d0.css.map",
+    "main.68f56e44.js.map": "/static/js/main.68f56e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20345d0.css",
+    "static/js/main.68f56e44.js"
+  ]
+}
